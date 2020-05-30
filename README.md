@@ -1,6 +1,6 @@
-# screenshot-cropper
+# Screenshot Cropper
 screenshot cropper is simple to screen shooter that crop the screenshot based on your mouse clicks.\
-Was made to make screenshotting more efficient 
+Was made to make screenshotting and especially cropping more efficient.
 
 ## Install Requirements
 ```
